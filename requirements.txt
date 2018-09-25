@@ -1,0 +1,8 @@
+uvloop==0.11.2
+aiohttp==3.4.4
+cchardet==2.1.1
+aiodns==1.1.1
+aiohttp_jinja2==1.0.0
+ujson==1.35
+connexion==1.5.3
+gunicorn==19.9.0
